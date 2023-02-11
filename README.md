@@ -382,8 +382,8 @@ may include using large, easy-to-read text and buttons, providing audio feedback
 actions, and allowing users to navigate the interface using keyboard commands or other
 assistive technologies.
 
-![image](https://user-images.githubusercontent.com/124458271/218273000-1a7d029d-d7cb-461e-9265-41ce1ffe717b.png)  ![image](https://user-images.githubusercontent.com/124458271/218273007-c11e1740-07de-4f8c-97ef-b2333e999fbd.png)
-
+![image](https://user-images.githubusercontent.com/124458271/218273000-1a7d029d-d7cb-461e-9265-41ce1ffe717b.png)  ![image](https://user-images.githubusercontent.com/124458271/218273007-c11e1740-07de-4f8c-97ef-b2333e999fbd.png)  
+[v1.0 of application]  
 It's also a good idea to test the user interface with a group of visually impaired
 individuals to ensure that it is intuitive and easy to use. This can help identify any issues or
 areas for improvement before the application is released to the public.
