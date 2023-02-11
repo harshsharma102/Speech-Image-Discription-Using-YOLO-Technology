@@ -562,6 +562,10 @@ depicted in Figure 3.5. The forget gate, input gate, and output gate decide whic
 information should be removed from the cell stat using either the sigmoid activation
 function or the tangent hypotential function.   
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/124458271/218273340-b0979ef5-122c-4d80-8027-6953e3b5a920.png)
 
 ### 3.4.5.3 Model Training  
@@ -620,7 +624,9 @@ confidence performed on the Flickr8K dataset.
 ### 5.2. Captions Generated
 ![image](https://user-images.githubusercontent.com/124458271/218273738-e7001697-4bfd-48c3-96b1-79eb8785bb27.png)
 
-![image](https://user-images.githubusercontent.com/124458271/218273833-0afb28fa-db4f-4d1e-b2b0-8f3fbc5eb2ef.png)
+![image](https://user-images.githubusercontent.com/124458271/218273833-0afb28fa-db4f-4d1e-b2b0-8f3fbc5eb2ef.png)  
+
+https://user-images.githubusercontent.com/124458271/218283313-1912ab24-bcc5-40f7-9b35-7896f5108ed2.mp4  
 
 ## Chapter 6 : Project Scope
 Navigation:  
