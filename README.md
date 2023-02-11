@@ -3,7 +3,7 @@ This application Identifies images in real-time using YOLO technology and provid
 An application named "Aider" is created to access this process easily and it'll help blind people who struggle with their daily activities.
  
 
-### ACKNOWLEDGEMENT  
+## ACKNOWLEDGEMENT  
 I would like to express my deep and sincere gratitude to my guide Dr. Amol
 Bhopale (https://www.linkedin.com/in/dr-amol-bhopale-45b45126/), Professor of Computer Science and Engineering Department, RCOEM, for giving
 me the opportunity to work on this project and providing valuable guidance throughout the
