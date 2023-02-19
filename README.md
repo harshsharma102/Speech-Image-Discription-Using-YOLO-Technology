@@ -5,7 +5,7 @@ An application named "Aider" is created to access this process easily and it'll 
 
 ## ACKNOWLEDGEMENT  
 I would like to express my deep and sincere gratitude to my guide Dr. Amol Bhopale (https://www.linkedin.com/in/dr-amol-bhopale-45b45126/), Professor of Computer Science and Engineering Department, RCOEM, for giving
-me the opportunity to work on this project and providing valuable guidance throughout the
+me the opportunity to work on this project and also providing valuable guidance throughout the
 project. It was a great privilege and honor to work under his guidance. I'm extremely
 grateful for the experience I had in this project with him.  
 I express my sincere gratitude to Dr. Avinash Agrawal (https://www.linkedin.com/in/avinash-agrawal-28a748102/), Head of the Department
